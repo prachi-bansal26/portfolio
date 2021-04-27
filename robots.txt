@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: http://prachibansal.me/sitemap.xml
